@@ -1,0 +1,15 @@
+D:\С#\SomeSolution\SomeSolution\bin\Debug\net7.0\SomeSolution.exe
+D:\С#\SomeSolution\SomeSolution\bin\Debug\net7.0\SomeSolution.deps.json
+D:\С#\SomeSolution\SomeSolution\bin\Debug\net7.0\SomeSolution.runtimeconfig.json
+D:\С#\SomeSolution\SomeSolution\bin\Debug\net7.0\SomeSolution.dll
+D:\С#\SomeSolution\SomeSolution\bin\Debug\net7.0\SomeSolution.pdb
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.csproj.AssemblyReference.cache
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.AssemblyInfoInputs.cache
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.AssemblyInfo.cs
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.csproj.CoreCompileInputs.cache
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.dll
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\refint\SomeSolution.dll
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.pdb
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\SomeSolution.genruntimeconfig.cache
+D:\С#\SomeSolution\SomeSolution\obj\Debug\net7.0\ref\SomeSolution.dll
